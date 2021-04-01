@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ngtoh"
+  "defaultProject": "ngtoh",
+  "cli": {
+    "analytics": false
+  }
 }
